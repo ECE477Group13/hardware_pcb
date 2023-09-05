@@ -8,14 +8,14 @@
   )
 
 
-  (sheet (at 62.23 140.97) (size 43.18 29.21) (fields_autoplaced)
+  (sheet (at 191.77 77.47) (size 43.18 29.21) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 17b4aebf-aea4-4bb2-a07c-86de8cf47820)
-    (property "Sheetname" "sensors" (at 62.23 140.2584 0)
+    (property "Sheetname" "sensors" (at 191.77 76.7584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "sesnsors.kicad_sch" (at 62.23 170.7646 0)
+    (property "Sheetfile" "sesnsors.kicad_sch" (at 191.77 107.2646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -25,14 +25,14 @@
     )
   )
 
-  (sheet (at 132.08 93.98) (size 40.64 24.13) (fields_autoplaced)
+  (sheet (at 191.77 128.27) (size 40.64 24.13) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 4517408f-0f6b-447a-a1e4-499647c9a591)
-    (property "Sheetname" "audio" (at 132.08 93.2684 0)
+    (property "Sheetname" "audio" (at 191.77 127.5584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "audio.kicad_sch" (at 132.08 118.6946 0)
+    (property "Sheetfile" "audio.kicad_sch" (at 191.77 152.9846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -42,14 +42,14 @@
     )
   )
 
-  (sheet (at 60.96 34.29) (size 43.18 30.48) (fields_autoplaced)
+  (sheet (at 187.96 25.4) (size 43.18 30.48) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 8941b970-7afc-4372-bfff-85ca5149bfdf)
-    (property "Sheetname" "power" (at 60.96 33.5784 0)
+    (property "Sheetname" "power" (at 187.96 24.6884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "power.kicad_sch" (at 60.96 65.3546 0)
+    (property "Sheetfile" "power.kicad_sch" (at 187.96 56.4646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
