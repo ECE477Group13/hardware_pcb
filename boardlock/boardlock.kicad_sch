@@ -8,6 +8,11 @@
   )
 
 
+  (text "David: ESP32 goes here" (at 62.23 45.72 0)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 622168bc-9c56-495f-bedf-0d429eab7b71)
+  )
+
   (sheet (at 191.77 77.47) (size 43.18 29.21) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
