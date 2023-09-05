@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 8e8f7def-0af8-4bb2-bce1-a2e486e7dd37)
+  (uuid 038d77c8-b780-43ec-ba07-03cfeb606d65)
 
   (paper "A4")
 
@@ -922,6 +922,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0a88f8b9-a7ed-4cb9-9ac0-1f27ab82e02f)
   )
+  (text "Place each decoupling cap\nnear VDD and VDDIO" (at 92.71 105.41 0)
+    (effects (font (size 1.27 1.27) bold) (justify left bottom))
+    (uuid 0d1be333-5820-4c01-a354-d379ad9fb7e7)
+  )
   (text "GPS Power Saving Circuit" (at 180.34 40.64 0)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 2a7873c8-fa1c-4cdd-9bc6-bfd8320d68aa)
@@ -956,7 +960,7 @@
     (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
     (uuid b14e9d76-4a61-4bd6-874b-1d01c5a9f23c)
   )
-  (text "SDO/SAO (Z) \nDetermines I2C Addr.\n0110101(Z) b\n" (at 26.67 130.81 0)
+  (text "SDO/SAO (Z) \nDetermines I2C Addr.\n0110101(Z) b\n" (at 27.94 175.26 0)
     (effects (font (size 2.5 2.5)) (justify left bottom))
     (uuid b1b22ef6-c927-4f1f-a48d-03e019d12e69)
   )
@@ -968,7 +972,7 @@
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid ca78a853-e43b-4b1d-b442-fca45d82021b)
   )
-  (text "I2C Addr: 0x6A" (at 26.67 118.11 0)
+  (text "I2C Addr: 0x6A" (at 27.94 162.56 0)
     (effects (font (size 2.5 2.5) (thickness 0.5) bold) (justify left bottom))
     (uuid db4ac304-8f70-417a-9be4-8a72e03a7389)
   )
