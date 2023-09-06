@@ -22,7 +22,7 @@
       (project "boardlock"
         (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "4"))
       )
-      (project "boardlock_back"
+      (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "4"))
       )
     )
@@ -42,7 +42,7 @@
       (project "boardlock"
         (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "3"))
       )
-      (project "boardlock_back"
+      (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "3"))
       )
     )
@@ -62,7 +62,7 @@
       (project "boardlock"
         (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "3"))
       )
-      (project "boardlock_back"
+      (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "2"))
       )
     )
