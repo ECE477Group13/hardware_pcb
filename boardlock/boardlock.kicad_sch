@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 48f24f42-fd64-4860-9f12-ca34cf195758)
+  (uuid e1fc29ce-837e-4062-84d8-c7e423f9eab9)
 
   (paper "A4")
 
@@ -8,58 +8,62 @@
   )
 
 
-  (text "David: ESP32 goes here" (at 62.23 45.72 0)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 622168bc-9c56-495f-bedf-0d429eab7b71)
-  )
-
-  (sheet (at 191.77 77.47) (size 43.18 29.21) (fields_autoplaced)
+  (sheet (at 153.67 128.27) (size 40.64 24.13) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid 17b4aebf-aea4-4bb2-a07c-86de8cf47820)
-    (property "Sheetname" "sensors" (at 191.77 76.7584 0)
+    (uuid 1eb676fb-9e7a-4e01-ba1e-2eff94d7b66e)
+    (property "Sheetname" "audio" (at 153.67 127.5584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "sesnsors.kicad_sch" (at 191.77 107.2646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "boardlock"
-        (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "2"))
-      )
-    )
-  )
-
-  (sheet (at 191.77 128.27) (size 40.64 24.13) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 4517408f-0f6b-447a-a1e4-499647c9a591)
-    (property "Sheetname" "audio" (at 191.77 127.5584 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "audio.kicad_sch" (at 191.77 152.9846 0)
+    (property "Sheetfile" "audio.kicad_sch" (at 153.67 152.9846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
       (project "boardlock"
         (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "4"))
       )
+      (project "boardlock_back"
+        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "4"))
+      )
     )
   )
 
-  (sheet (at 187.96 25.4) (size 43.18 30.48) (fields_autoplaced)
+  (sheet (at 149.86 25.4) (size 43.18 30.48) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid 8941b970-7afc-4372-bfff-85ca5149bfdf)
-    (property "Sheetname" "power" (at 187.96 24.6884 0)
+    (uuid 5801071c-337d-449a-92e5-5afeb5febc0d)
+    (property "Sheetname" "power" (at 149.86 24.6884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "power.kicad_sch" (at 187.96 56.4646 0)
+    (property "Sheetfile" "power.kicad_sch" (at 149.86 56.4646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
       (project "boardlock"
         (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "3"))
+      )
+      (project "boardlock_back"
+        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 74.93) (size 43.18 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a4a6f965-a4d9-4da6-b64e-79eda0daabe5)
+    (property "Sheetname" "sensors" (at 152.4 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "sensors.kicad_sch" (at 152.4 105.9946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "boardlock"
+        (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "3"))
+      )
+      (project "boardlock_back"
+        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "2"))
       )
     )
   )
