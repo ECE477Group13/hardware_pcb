@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "TPS630701RNMR")(type "KiCad")(uri "${KIPRJMOD}/custom_library/TPS630701RNMR/TPS630701RNMR.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX98357AETE+T")(type "KiCad")(uri "${KIPRJMOD}/custom_library/MAX98357AETE_T/MAX98357AETE_T.kicad_sym")(options "")(descr ""))
 )
