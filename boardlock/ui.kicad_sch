@@ -486,7 +486,7 @@
   (symbol (lib_id "power:GND") (at 40.64 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1398ccca-6c09-4e4a-94ce-ed5440524bb9)
-    (property "Reference" "#PWR09" (at 40.64 85.09 0)
+    (property "Reference" "#PWR028" (at 40.64 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 40.64 83.82 0)
@@ -502,7 +502,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR028") (unit 1)
         )
       )
     )
@@ -511,7 +511,7 @@
   (symbol (lib_id "Device:R_US") (at 72.39 45.72 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2378c4b9-cbf8-4dad-8116-ebbbe4d8cbbb)
-    (property "Reference" "R8" (at 72.39 50.8 90)
+    (property "Reference" "R13" (at 72.39 50.8 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "R_US" (at 72.39 48.26 90)
@@ -528,7 +528,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
-          (reference "R8") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -537,7 +537,7 @@
   (symbol (lib_id "Device:R_US") (at 72.39 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5b3d9992-b795-41c3-a803-2b0f4a6b1a63)
-    (property "Reference" "R7" (at 72.39 38.1 90)
+    (property "Reference" "R12" (at 72.39 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "R_US" (at 72.39 40.64 90)
@@ -554,7 +554,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
-          (reference "R7") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -563,7 +563,7 @@
   (symbol (lib_id "power:GND") (at 82.55 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e7a29dc6-1a9e-4c98-879d-3168ebfeda02)
-    (property "Reference" "#PWR022" (at 82.55 52.07 0)
+    (property "Reference" "#PWR029" (at 82.55 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 82.55 49.53 0)
@@ -579,7 +579,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR029") (unit 1)
         )
       )
     )

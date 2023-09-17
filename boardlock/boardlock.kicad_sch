@@ -440,7 +440,7 @@
   (symbol (lib_id "power:GND") (at 80.01 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 20786e0b-840e-45fe-a891-f0a86066defe)
-    (property "Reference" "#PWR021" (at 80.01 48.26 0)
+    (property "Reference" "#PWR02" (at 80.01 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 80.01 46.99 0)
@@ -456,7 +456,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -465,7 +465,7 @@
   (symbol (lib_id "PCM_Espressif:ESP32-S3-WROOM-1") (at 101.6 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d19b9a6-d267-43ab-bde6-80887bf4a501)
-    (property "Reference" "U6" (at 103.7941 46.99 0)
+    (property "Reference" "U1" (at 103.7941 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "ESP32-S3-WROOM-1" (at 103.7941 49.53 0)
@@ -521,7 +521,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "U6") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -530,7 +530,7 @@
   (symbol (lib_id "power:+3V3") (at 80.01 25.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4253b7e7-1863-4b91-b48b-a41c4d8421cf)
-    (property "Reference" "#PWR019" (at 80.01 29.21 0)
+    (property "Reference" "#PWR01" (at 80.01 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 80.01 20.32 0)
@@ -546,7 +546,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -555,7 +555,7 @@
   (symbol (lib_id "power:GND") (at 101.6 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 768f6b70-a3e8-47d6-9ded-89340831e301)
-    (property "Reference" "#PWR020" (at 101.6 142.24 0)
+    (property "Reference" "#PWR03" (at 101.6 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 140.97 0)
@@ -571,7 +571,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -580,7 +580,7 @@
   (symbol (lib_id "Device:C") (at 80.01 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 823400b7-96c8-476e-acf7-299f9f7b9fbf)
-    (property "Reference" "C8" (at 83.82 34.29 0)
+    (property "Reference" "C1" (at 83.82 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 83.82 36.83 0)
@@ -597,7 +597,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "C8") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -606,7 +606,7 @@
   (symbol (lib_id "Device:C") (at 91.44 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 93660fd6-2e3e-411a-8380-ad5214a87cfe)
-    (property "Reference" "C" (at 95.25 34.29 0)
+    (property "Reference" "C2" (at 95.25 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 95.25 36.83 0)
@@ -623,7 +623,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "C") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -644,7 +644,7 @@
         (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "4"))
       )
       (project "boardlock"
-        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "4"))
+        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "5"))
       )
     )
   )
@@ -663,6 +663,23 @@
       (project "boardlock"
         (path "/48f24f42-fd64-4860-9f12-ca34cf195758" (page "3"))
       )
+      (project "boardlock"
+        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 176.53 39.37) (size 30.48 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a05f4dcd-7a18-4529-a05e-43353e81fbf8)
+    (property "Sheetname" "battery" (at 176.53 38.6584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "battery.kicad_sch" (at 176.53 61.5446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "3"))
       )
@@ -701,7 +718,7 @@
     )
     (instances
       (project "boardlock"
-        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "5"))
+        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "6"))
       )
     )
   )
