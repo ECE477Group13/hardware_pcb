@@ -409,6 +409,11 @@
     (uuid de0bfc4d-db9d-45d7-80d2-ef4a92294b8e)
   )
 
+  (text "Add pads for potential\nadjustments after\nfabrication."
+    (at 20.32 147.32 0)
+    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
+    (uuid 8e0ffdb1-855a-4d7b-b518-43c66077f66f)
+  )
   (text "NOTE: ESP32-S3 Dev Board pins numbers\ncorrespond with GPIO pin number.\nSchematic symbol pin numbers correspond\nwith ESP32 package numbering. Refer to\nsymbol notes for GPIO pins number."
     (at 16.51 39.37 0)
     (effects (font (size 1.75 1.75)) (justify left bottom))
