@@ -659,10 +659,10 @@
     (uuid fc9634e3-ad12-474f-bab9-8d1126da6396)
   )
 
-  (global_label "V_BATT_BUCK_BOOST_EN" (shape input) (at 111.76 81.28 180) (fields_autoplaced)
+  (global_label "BATT_BUCK_BOOST_EN" (shape input) (at 111.76 81.28 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2eb0fbaf-cbd3-405f-8162-6f3f177aad08)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 85.7939 81.28 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 87.8501 81.28 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
