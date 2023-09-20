@@ -1024,8 +1024,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fb4cec6a-0239-456f-9c0c-c78bf11db337)
   )
-  (text "CS needs to be \nhigh to enable \nI2C mode. Should \nthis be 3.3V \ninstead?"
-    (at 59.69 157.48 0)
+  (text "CS needs to be \nhigh to enable \nI2C mode" (at 59.69 152.4 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fbd62a32-3c21-4264-b414-299b348b163f)
   )
