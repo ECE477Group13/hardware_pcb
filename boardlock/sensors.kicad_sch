@@ -919,7 +919,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0a9227a9-a29d-4a6f-b7e3-0fd4756e58a8)
   )
-  (text "THIS NEEDS TO CHANGE" (at 215.9 67.31 0)
+  (text "THIS NEEDS TO CHANGE" (at 217.17 67.31 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid 11bfc295-f2b9-4693-a760-23b773be581e)
   )
