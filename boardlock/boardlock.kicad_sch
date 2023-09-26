@@ -577,6 +577,10 @@
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 8e0ffdb1-855a-4d7b-b518-43c66077f66f)
   )
+  (text "Q: Does micro already handle these pull-ups?\n\n" (at 191.77 81.28 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a7f3d372-9088-44ff-9fe1-5a299894bded)
+  )
   (text "NOTE: ESP32-S3 Dev Board pins numbers\ncorrespond with GPIO pin number.\nSchematic symbol pin numbers correspond\nwith ESP32 package numbering. Refer to\nsymbol notes for GPIO pins number."
     (at 16.51 39.37 0)
     (effects (font (size 1.75 1.75)) (justify left bottom))
@@ -1031,6 +1035,23 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 203.2 124.46) (size 30.48 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ace912f2-c3e9-4bf3-99ba-49d1d353f0f6)
+    (property "Sheetname" "testpoints" (at 203.2 123.7484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "testpoints.kicad_sch" (at 203.2 147.9046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "boardlock"
+        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9" (page "7"))
       )
     )
   )
