@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "BoardLock Schematic")
+    (rev "Rev1")
+    (company "Schetmatic")
+  )
+
   (lib_symbols
     (symbol "Connector:USB_C_Receptacle_USB2.0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -10.16 19.05 0)
@@ -514,7 +520,7 @@
     (property "Reference" "R13" (at 72.39 50.8 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R_US" (at 72.39 48.26 90)
+    (property "Value" "5.1k" (at 72.39 48.26 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 72.136 46.736 90)
@@ -540,7 +546,7 @@
     (property "Reference" "R12" (at 72.39 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R_US" (at 72.39 40.64 90)
+    (property "Value" "5.1k" (at 72.39 40.64 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 72.644 42.164 90)
@@ -586,19 +592,22 @@
   )
 
   (symbol (lib_id "Connector:USB_C_Receptacle_USB2.0") (at 48.26 53.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid f18380a6-7fc6-40ac-b45f-a1afee8b9ffc)
-    (property "Reference" "J1" (at 48.26 30.48 0)
+    (property "Reference" "J?" (at 48.26 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "USB_C_Receptacle_USB2.0" (at 48.26 33.02 0)
+    (property "Value" "USB_C_Receptacle_USB2.0" (at 48.26 30.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 52.07 53.34 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_JAE_DX07S016JA1R1500" (at 52.07 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 52.07 53.34 0)
+    (property "Datasheet" "https://www.digikey.com/en/products/detail/jae-electronics/dx07s016ja1r1500/11585731" (at 52.07 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFN Part #" "DX07S016JA1R1500" (at 48.26 33.02 0)
+      (effects (font (size 1.27 1.27)))
     )
     (pin "A1" (uuid 4846a0ed-338b-4128-a84f-a6afaa308f09))
     (pin "A12" (uuid 1893e9a8-f40c-4cbc-9b5f-c0f1a9861e97))
@@ -620,7 +629,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
-          (reference "J1") (unit 1)
+          (reference "J?") (unit 1)
         )
       )
     )
