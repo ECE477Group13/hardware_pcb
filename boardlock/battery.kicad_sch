@@ -963,10 +963,6 @@
     (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
     (uuid 1bc41fd0-0d8d-4010-bf74-1f374e8aa1b5)
   )
-  (text "Need to add to \nmicro sheet" (at 234.95 124.46 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 28cbd5e6-293a-4d14-9447-d6c7154efb91)
-  )
   (text "+Batt is the battery\nvoltage after the\ncoloumb shunt resistor"
     (at 167.64 110.49 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
