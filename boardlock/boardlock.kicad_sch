@@ -1065,10 +1065,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid ace912f2-c3e9-4bf3-99ba-49d1d353f0f6)
-    (property "Sheetname" "testpoints" (at 203.2 123.7484 0)
+    (property "Sheetname" "misc" (at 203.2 123.7484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "testpoints.kicad_sch" (at 203.2 147.9046 0)
+    (property "Sheetfile" "misc.kicad_sch" (at 203.2 147.9046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
