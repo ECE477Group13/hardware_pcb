@@ -356,6 +356,10 @@
     [
       "c1e95beb-a482-4f8e-b13b-3641abb17f9b",
       "ui"
+    ],
+    [
+      "ace912f2-c3e9-4bf3-99ba-49d1d353f0f6",
+      "testpoints"
     ]
   ],
   "text_variables": {}
