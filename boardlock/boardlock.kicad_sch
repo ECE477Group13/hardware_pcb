@@ -571,7 +571,6 @@
 
   (no_connect (at 52.07 100.33) (uuid 051fe881-81a6-462f-a156-84a972231cc6))
   (no_connect (at 52.07 102.87) (uuid 1c7bb54d-22c8-46a5-bfef-9749190dee14))
-  (no_connect (at 52.07 105.41) (uuid 90ae8033-f067-4943-99ae-9a22b8d44bfc))
 
   (wire (pts (xy 147.32 54.61) (xy 149.86 54.61))
     (stroke (width 0) (type default))
@@ -822,6 +821,10 @@
     (at 16.51 129.54 0)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid f2256970-5c76-4b10-9113-eb792bbad13e)
+  )
+  (text "GPOUT needs to\nbe I/O due to\nSHUTDOWN mode" (at 40.64 110.49 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f38f99bc-a534-49bd-b122-821523431fdf)
   )
 
   (global_label "M_I2C_SDA" (shape bidirectional) (at 189.23 90.17 0) (fields_autoplaced)
