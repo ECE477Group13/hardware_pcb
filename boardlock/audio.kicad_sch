@@ -1301,7 +1301,7 @@
     (uuid a4a6f7b7-2568-44a6-86ab-42bc131a6e57)
   )
   (text "Channel Selection\nLEFT = VDD (0 Ohm)\nRIGHT = (94*VDD - 100) kOhm\nL/R = (22.2*VDD-100) kOhm\n\nMight be not needed since\nI got this work without\nthe signal being connected."
-    (at 41.91 93.98 0)
+    (at 41.91 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f47b7f16-f9be-43d2-a5c4-edd849e449bb)
   )
