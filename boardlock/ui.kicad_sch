@@ -1764,6 +1764,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b4be7eba-24d1-48c9-a1bf-0c03355779ee)
   )
+  (text "When laying out USB:\n1) Match trace length\n2) Keep same distance between traces"
+    (at 57.15 87.63 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid d79df2a3-3bd3-4254-9177-970075b9a93c)
+  )
   (text "assuming using big LED,\nchange pin order if not\n" (at 109.22 134.62 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f0ba706d-0f99-46c4-86be-f79d95142238)
