@@ -3,4 +3,6 @@
   (lib (name "TPS630701RNMR")(type "KiCad")(uri "${KIPRJMOD}/custom_library/TPS630701RNMR/footprints.pretty")(options "")(descr ""))
   (lib (name "MAX98357AETE+T")(type "KiCad")(uri "${KIPRJMOD}/custom_library/MAX98357AETE_T")(options "")(descr ""))
   (lib (name "microSD 503398-1892")(type "KiCad")(uri "${KIPRJMOD}/custom_library/microSD 503398-1892")(options "")(descr ""))
+  (lib (name "DR74-1R5-R")(type "KiCad")(uri "${KIPRJMOD}/custom_library/DR74-1R5-R/footprints.pretty")(options "")(descr ""))
+  (lib (name "B82462G4472M000")(type "KiCad")(uri "${KIPRJMOD}/custom_library/B82462G4472M000/footprints.pretty")(options "")(descr ""))
 )
