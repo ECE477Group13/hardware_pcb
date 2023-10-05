@@ -1,4 +1,4 @@
-21738313964543897
+21743403601920809
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60787,6 +60787,27 @@ Yellow 5381 Series LED
 0
 2
 2
+LSM6DSO32TR
+LGA-14L_2P5X3X0P83_STM
+
+LSM6DSO32TR 
+0
+14
+14
+LSM6DSO32TR
+LGA-14L_2P5X3X0P83_STM-L
+
+LSM6DSO32TR 
+0
+14
+14
+LSM6DSO32TR
+LGA-14L_2P5X3X0P83_STM-M
+
+LSM6DSO32TR 
+0
+14
+14
 MAX98357AETE+T
 QFN50P300X300X80-17N
 
