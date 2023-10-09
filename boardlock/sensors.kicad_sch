@@ -1357,7 +1357,7 @@
   (symbol (lib_id "Device:C_Small") (at 276.86 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 047fae99-4ad4-4f34-8abc-26281bb8d030)
-    (property "Reference" "C5" (at 279.4 127.0063 0)
+    (property "Reference" "C22" (at 279.4 127.0063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1.0uF" (at 279.4 129.5463 0)
@@ -1374,7 +1374,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "C5") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -1383,13 +1383,13 @@
   (symbol (lib_id "Connector:TestPoint") (at 199.39 121.92 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 05d15d6d-3db1-4dd6-859a-70aef10c678b)
-    (property "Reference" "TP41" (at 179.07 121.92 90)
+    (property "Reference" "TP3" (at 179.07 121.92 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "GPS_SAFE_N" (at 187.96 121.92 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (at 199.39 116.84 0)
+    (property "Footprint" "TestPoint:TestPoint_Plated_Hole_D3.0mm" (at 199.39 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 116.84 0)
@@ -1399,7 +1399,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "TP41") (unit 1)
+          (reference "TP3") (unit 1)
         )
       )
     )
@@ -1408,13 +1408,13 @@
   (symbol (lib_id "Connector:TestPoint") (at 199.39 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1518d166-3398-4f6d-888e-f592e65bb433)
-    (property "Reference" "TP40" (at 181.61 119.38 90)
+    (property "Reference" "TP1" (at 181.61 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TIMEPULSE" (at 189.23 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (at 199.39 114.3 0)
+    (property "Footprint" "TestPoint:TestPoint_Plated_Hole_D3.0mm" (at 199.39 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 114.3 0)
@@ -1424,7 +1424,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "TP40") (unit 1)
+          (reference "TP1") (unit 1)
         )
       )
     )
@@ -1454,7 +1454,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -1487,7 +1487,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -1496,13 +1496,13 @@
   (symbol (lib_id "Connector:TestPoint") (at 199.39 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 17c50a13-057f-4ca0-8699-170083bae503)
-    (property "Reference" "TP42" (at 179.07 124.46 90)
+    (property "Reference" "TP2" (at 179.07 124.46 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "GPS_RESET_N" (at 187.96 124.46 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (at 199.39 119.38 0)
+    (property "Footprint" "TestPoint:TestPoint_Plated_Hole_D3.0mm" (at 199.39 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 119.38 0)
@@ -1512,7 +1512,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "TP42") (unit 1)
+          (reference "TP2") (unit 1)
         )
       )
     )
@@ -1521,13 +1521,13 @@
   (symbol (lib_id "Connector:TestPoint") (at 105.41 130.81 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ae37c43-409c-4099-8880-0e7237dc6829)
-    (property "Reference" "TP43" (at 123.19 130.81 90)
+    (property "Reference" "TP21" (at 123.19 130.81 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "IMU_INT1" (at 115.57 130.81 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (at 105.41 135.89 0)
+    (property "Footprint" "TestPoint:TestPoint_Plated_Hole_D3.0mm" (at 105.41 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 105.41 135.89 0)
@@ -1537,7 +1537,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "TP43") (unit 1)
+          (reference "TP21") (unit 1)
         )
       )
     )
@@ -1546,7 +1546,7 @@
   (symbol (lib_id "Device:R_US") (at 228.6 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2b155cbb-3642-40ed-b9f5-644afd3f08f4)
-    (property "Reference" "R19" (at 231.14 153.67 0)
+    (property "Reference" "R28" (at 231.14 153.67 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R_US" (at 231.14 156.21 0)
@@ -1563,7 +1563,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R19") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -1595,7 +1595,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "Q3") (unit 1)
+          (reference "Q2") (unit 1)
         )
       )
     )
@@ -1626,7 +1626,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R14") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -1657,7 +1657,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R7") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -1672,7 +1672,7 @@
     (property "Value" "LSM6DSO32" (at 91.0941 155.2743 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "LSM6DSO32TR:LGA-14L_2P5X3X0P83_STM-M" (at 78.74 156.21 0)
+    (property "Footprint" "Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y" (at 78.74 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/lsm6dso32.pdf" (at 91.44 154.94 0)
@@ -1706,7 +1706,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "U3") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -1736,7 +1736,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR059") (unit 1)
         )
       )
     )
@@ -1766,7 +1766,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -1801,7 +1801,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "Q2") (unit 1)
+          (reference "Q4") (unit 1)
         )
       )
     )
@@ -1831,7 +1831,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR062") (unit 1)
         )
       )
     )
@@ -1875,7 +1875,7 @@
   (symbol (lib_id "power:+3V3") (at 40.64 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63843752-5c7f-4061-9bca-b469ad483d77)
-    (property "Reference" "#PWR010" (at 40.64 82.55 0)
+    (property "Reference" "#PWR065" (at 40.64 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 40.64 73.66 0)
@@ -1891,7 +1891,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR065") (unit 1)
         )
       )
     )
@@ -1922,7 +1922,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R8") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -1931,7 +1931,7 @@
   (symbol (lib_id "Device:R_US") (at 181.61 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94a73b2d-1723-4585-9ec8-fbd35b851907)
-    (property "Reference" "R11" (at 184.15 62.23 0)
+    (property "Reference" "R25" (at 184.15 62.23 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R_US" (at 184.15 64.77 0)
@@ -1948,7 +1948,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R11") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -1981,7 +1981,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -2013,7 +2013,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "Q4") (unit 1)
+          (reference "Q3") (unit 1)
         )
       )
     )
@@ -2044,7 +2044,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R9") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -2108,7 +2108,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -2173,7 +2173,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R15") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -2222,7 +2222,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "U2") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -2256,7 +2256,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R17") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -2265,7 +2265,7 @@
   (symbol (lib_id "Device:R_US") (at 40.64 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d2847346-0081-4bb9-988c-f8c7e2c8b58c)
-    (property "Reference" "R12" (at 43.18 85.09 0)
+    (property "Reference" "R38" (at 43.18 85.09 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R_US" (at 43.18 87.63 0)
@@ -2282,7 +2282,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R12") (unit 1)
+          (reference "R38") (unit 1)
         )
       )
     )
@@ -2291,7 +2291,7 @@
   (symbol (lib_id "power:+3V3") (at 228.6 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d5b76126-3229-4294-94a1-3ecbc87731a3)
-    (property "Reference" "#PWR016" (at 228.6 151.13 0)
+    (property "Reference" "#PWR084" (at 228.6 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 228.6 142.24 0)
@@ -2307,7 +2307,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR084") (unit 1)
         )
       )
     )
@@ -2341,7 +2341,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R18") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -2374,7 +2374,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -2405,7 +2405,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R6") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -2435,7 +2435,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -2466,7 +2466,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R13") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -2475,7 +2475,7 @@
   (symbol (lib_id "Device:R_US") (at 60.96 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f5862c25-76be-421c-a305-afed8bf4e160)
-    (property "Reference" "R10" (at 63.5 59.69 0)
+    (property "Reference" "R24" (at 63.5 59.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R_US" (at 63.5 62.23 0)
@@ -2492,7 +2492,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R10") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -2523,7 +2523,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "R16") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -2553,7 +2553,7 @@
       )
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR061") (unit 1)
         )
       )
     )
