@@ -1431,7 +1431,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 104.14 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07b74e84-0d40-44a7-82f1-dd9a2d989837)
-    (property "Reference" "TP23" (at 260.35 104.14 90)
+    (property "Reference" "TP19" (at 260.35 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 106.68 90)
@@ -1447,7 +1447,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP23") (unit 1)
+          (reference "TP19") (unit 1)
         )
       )
     )
@@ -1456,7 +1456,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 182.88 71.12 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 087f2a4b-628c-4e39-b1cd-f5ddb6ec005e)
-    (property "Reference" "TP31" (at 189.23 71.12 90)
+    (property "Reference" "TP2" (at 189.23 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 186.182 73.66 90)
@@ -1472,7 +1472,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP31") (unit 1)
+          (reference "TP2") (unit 1)
         )
       )
     )
@@ -1481,7 +1481,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 189.23 137.16 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09b6e777-ed4e-4824-9b83-387e54461b21)
-    (property "Reference" "TP33" (at 196.85 137.16 90)
+    (property "Reference" "TP34" (at 196.85 137.16 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 204.47 137.16 90)
@@ -1497,7 +1497,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP33") (unit 1)
+          (reference "TP34") (unit 1)
         )
       )
     )
@@ -1530,7 +1530,7 @@
   (symbol (lib_id "Device:LED") (at 160.02 182.88 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e96fb4e-62ec-4221-adee-b74ea60cd1ab)
-    (property "Reference" "D3" (at 163.83 183.8325 90)
+    (property "Reference" "D1" (at 163.83 183.8325 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (at 163.83 186.3725 90)
@@ -1547,7 +1547,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "D3") (unit 1)
+          (reference "D1") (unit 1)
         )
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
           (reference "D3") (unit 1)
@@ -1559,7 +1559,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 119.38 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20417a03-c87d-44fe-8129-d5ce48d3e401)
-    (property "Reference" "TP29" (at 260.35 119.38 90)
+    (property "Reference" "TP25" (at 260.35 119.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 121.92 90)
@@ -1575,7 +1575,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP29") (unit 1)
+          (reference "TP25") (unit 1)
         )
       )
     )
@@ -1609,7 +1609,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 121.92 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20a29b33-641d-4f4c-bbbf-a5309e542bb6)
-    (property "Reference" "TP19" (at 260.35 121.92 90)
+    (property "Reference" "TP26" (at 260.35 121.92 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 124.46 90)
@@ -1625,7 +1625,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP19") (unit 1)
+          (reference "TP26") (unit 1)
         )
       )
     )
@@ -1634,7 +1634,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 132.08 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 254f339e-4df4-42a5-807e-554419fb5f1d)
-    (property "Reference" "TP39" (at 260.35 132.08 90)
+    (property "Reference" "TP30" (at 260.35 132.08 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 134.62 90)
@@ -1650,7 +1650,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP39") (unit 1)
+          (reference "TP30") (unit 1)
         )
       )
     )
@@ -1724,7 +1724,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 127 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2db46358-d7ef-4730-b8bc-15494ea69e52)
-    (property "Reference" "TP37" (at 260.35 127 90)
+    (property "Reference" "TP28" (at 260.35 127 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 129.54 90)
@@ -1740,7 +1740,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP37") (unit 1)
+          (reference "TP28") (unit 1)
         )
       )
     )
@@ -1749,7 +1749,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 116.84 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 364c0927-00fc-4ded-add9-b1f5cbe8b90b)
-    (property "Reference" "TP28" (at 260.35 116.84 90)
+    (property "Reference" "TP24" (at 260.35 116.84 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 119.38 90)
@@ -1765,7 +1765,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP28") (unit 1)
+          (reference "TP24") (unit 1)
         )
       )
     )
@@ -1774,7 +1774,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 88.9 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 379d4b86-2188-4a36-83da-5aa56dce35e5)
-    (property "Reference" "TP17" (at 260.35 88.9 90)
+    (property "Reference" "TP11" (at 260.35 88.9 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 91.44 90)
@@ -1790,7 +1790,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP17") (unit 1)
+          (reference "TP11") (unit 1)
         )
       )
     )
@@ -1799,7 +1799,7 @@
   (symbol (lib_id "power:GND") (at 160.02 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3c9a86cf-19a4-483f-8203-3a857e98da0b)
-    (property "Reference" "#PWR085" (at 160.02 194.31 0)
+    (property "Reference" "#PWR05" (at 160.02 194.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 160.02 193.04 0)
@@ -1815,7 +1815,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "#PWR085") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
           (reference "#PWR085") (unit 1)
@@ -1877,7 +1877,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 137.16 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d278127-551f-4c5d-bfdb-aa44d8c27715)
-    (property "Reference" "TP9" (at 29.21 137.16 90)
+    (property "Reference" "TP33" (at 29.21 137.16 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 134.62 90)
@@ -1893,7 +1893,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP9") (unit 1)
+          (reference "TP33") (unit 1)
         )
       )
     )
@@ -1902,7 +1902,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 96.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 526eaf18-5b76-4c4b-a91f-91c954edb78a)
-    (property "Reference" "TP35" (at 260.35 96.52 90)
+    (property "Reference" "TP16" (at 260.35 96.52 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 99.06 90)
@@ -1918,7 +1918,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP35") (unit 1)
+          (reference "TP16") (unit 1)
         )
       )
     )
@@ -1927,7 +1927,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 224.79 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 579d78a8-83b0-441a-a85b-8692fd140d8d)
-    (property "Reference" "TP40" (at 224.79 128.27 90)
+    (property "Reference" "TP32" (at 224.79 128.27 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 227.33 131.318 90)
@@ -1943,7 +1943,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP40") (unit 1)
+          (reference "TP32") (unit 1)
         )
       )
     )
@@ -1952,7 +1952,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 88.9 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a0de6a0-c2bd-4c1e-8790-309704bb0ecb)
-    (property "Reference" "TP12" (at 29.21 88.9 90)
+    (property "Reference" "TP10" (at 29.21 88.9 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 86.36 90)
@@ -1968,7 +1968,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP12") (unit 1)
+          (reference "TP10") (unit 1)
         )
       )
     )
@@ -1977,7 +1977,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 101.6 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5dda65ad-ecdb-4e0d-b67a-88c2a98af0c3)
-    (property "Reference" "TP22" (at 260.35 101.6 90)
+    (property "Reference" "TP18" (at 260.35 101.6 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 104.14 90)
@@ -1993,7 +1993,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP22") (unit 1)
+          (reference "TP18") (unit 1)
         )
       )
     )
@@ -2026,7 +2026,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 91.44 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b25139e-3aaa-4c4f-8795-e089e3cf06c2)
-    (property "Reference" "TP18" (at 260.35 91.44 90)
+    (property "Reference" "TP13" (at 260.35 91.44 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 93.98 90)
@@ -2042,7 +2042,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP18") (unit 1)
+          (reference "TP13") (unit 1)
         )
       )
     )
@@ -2051,7 +2051,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 189.23 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6c9c4539-bac8-495b-932c-877614a82bdd)
-    (property "Reference" "TP34" (at 196.85 93.98 90)
+    (property "Reference" "TP15" (at 196.85 93.98 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 204.47 93.98 90)
@@ -2067,7 +2067,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP34") (unit 1)
+          (reference "TP15") (unit 1)
         )
       )
     )
@@ -2076,7 +2076,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 71.12 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6d66ea27-ae29-4c17-a676-58f12cbd52a4)
-    (property "Reference" "TP16" (at 29.21 71.12 90)
+    (property "Reference" "TP1" (at 29.21 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 68.58 90)
@@ -2092,7 +2092,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP16") (unit 1)
+          (reference "TP1") (unit 1)
         )
       )
     )
@@ -2101,7 +2101,7 @@
   (symbol (lib_id "power:GND") (at 134.62 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 768f6b70-a3e8-47d6-9ded-89340831e301)
-    (property "Reference" "#PWR03" (at 134.62 158.75 0)
+    (property "Reference" "#PWR04" (at 134.62 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 134.62 157.48 0)
@@ -2117,7 +2117,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -2146,7 +2146,7 @@
           (reference "R?") (unit 1)
         )
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "R19") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -2179,7 +2179,7 @@
   (symbol (lib_id "Device:R_US") (at 218.44 134.62 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7f596852-38c9-4357-80a3-e3b937afc2c6)
-    (property "Reference" "R4" (at 215.9 130.81 90)
+    (property "Reference" "R3" (at 215.9 130.81 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0" (at 220.98 130.81 90)
@@ -2196,7 +2196,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "R4") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -2231,7 +2231,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 91.44 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 923a5bec-5936-48e7-b7bf-b06cee28abc7)
-    (property "Reference" "TP11" (at 29.21 91.44 90)
+    (property "Reference" "TP12" (at 29.21 91.44 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 88.9 90)
@@ -2247,7 +2247,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP11") (unit 1)
+          (reference "TP12") (unit 1)
         )
       )
     )
@@ -2282,7 +2282,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 139.7 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 93daaf7f-b188-4ec4-8762-e638362e2474)
-    (property "Reference" "TP41" (at 260.35 139.7 90)
+    (property "Reference" "TP36" (at 260.35 139.7 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 142.24 90)
@@ -2298,7 +2298,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP41") (unit 1)
+          (reference "TP36") (unit 1)
         )
       )
     )
@@ -2307,7 +2307,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 80.01 139.7 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9af1008d-7411-4dfa-bcf1-e3beaa6e1af7)
-    (property "Reference" "TP6" (at 72.39 139.7 90)
+    (property "Reference" "TP35" (at 72.39 139.7 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 64.77 139.7 90)
@@ -2323,7 +2323,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP6") (unit 1)
+          (reference "TP35") (unit 1)
         )
       )
     )
@@ -2332,7 +2332,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 99.06 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c43f56b-3800-4e2a-860e-163e231b1350)
-    (property "Reference" "TP20" (at 260.35 99.06 90)
+    (property "Reference" "TP17" (at 260.35 99.06 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 101.6 90)
@@ -2348,7 +2348,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP20") (unit 1)
+          (reference "TP17") (unit 1)
         )
       )
     )
@@ -2357,7 +2357,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 111.76 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0a78990-df57-46c9-8927-dfb98a03d31d)
-    (property "Reference" "TP26" (at 260.35 111.76 90)
+    (property "Reference" "TP22" (at 260.35 111.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 114.3 90)
@@ -2373,7 +2373,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP26") (unit 1)
+          (reference "TP22") (unit 1)
         )
       )
     )
@@ -2382,7 +2382,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 109.22 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a111f2b5-16a6-4e7c-a051-613d86900518)
-    (property "Reference" "TP25" (at 260.35 109.22 90)
+    (property "Reference" "TP21" (at 260.35 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 111.76 90)
@@ -2398,7 +2398,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP25") (unit 1)
+          (reference "TP21") (unit 1)
         )
       )
     )
@@ -2407,7 +2407,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 106.68 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a461c2a3-2894-42a5-94fc-e3fd834a098c)
-    (property "Reference" "TP24" (at 260.35 106.68 90)
+    (property "Reference" "TP20" (at 260.35 106.68 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 109.22 90)
@@ -2423,7 +2423,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP24") (unit 1)
+          (reference "TP20") (unit 1)
         )
       )
     )
@@ -2451,7 +2451,7 @@
           (reference "#PWR048") (unit 1)
         )
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -2460,7 +2460,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 129.54 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid af74db68-a416-47c3-98bc-bc368a540f97)
-    (property "Reference" "TP38" (at 260.35 129.54 90)
+    (property "Reference" "TP29" (at 260.35 129.54 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 132.08 90)
@@ -2476,7 +2476,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP38") (unit 1)
+          (reference "TP29") (unit 1)
         )
       )
     )
@@ -2485,7 +2485,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 124.46 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid afdf342e-6e19-4966-821d-9c6d70c1fd86)
-    (property "Reference" "TP36" (at 260.35 124.46 90)
+    (property "Reference" "TP27" (at 260.35 124.46 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 127 90)
@@ -2501,7 +2501,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP36") (unit 1)
+          (reference "TP27") (unit 1)
         )
       )
     )
@@ -2510,7 +2510,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 114.3 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b1f9dadd-136e-475d-92ac-569950e0ff72)
-    (property "Reference" "TP27" (at 260.35 114.3 90)
+    (property "Reference" "TP23" (at 260.35 114.3 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 116.84 90)
@@ -2526,7 +2526,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP27") (unit 1)
+          (reference "TP23") (unit 1)
         )
       )
     )
@@ -2559,7 +2559,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 78.74 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bfccc94f-fa5d-402d-8d78-815bb6ec098a)
-    (property "Reference" "TP4" (at 260.35 78.74 90)
+    (property "Reference" "TP5" (at 260.35 78.74 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 81.28 90)
@@ -2575,7 +2575,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP4") (unit 1)
+          (reference "TP5") (unit 1)
         )
       )
     )
@@ -2608,7 +2608,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 93.98 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c3fe9869-cc19-446f-91ff-299b16baea26)
-    (property "Reference" "TP10" (at 29.21 93.98 90)
+    (property "Reference" "TP14" (at 29.21 93.98 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 91.44 90)
@@ -2624,7 +2624,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP10") (unit 1)
+          (reference "TP14") (unit 1)
         )
       )
     )
@@ -2633,7 +2633,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 182.88 73.66 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cd55e9fe-f9fd-4843-ae55-5f250bd970fb)
-    (property "Reference" "TP32" (at 189.23 73.66 90)
+    (property "Reference" "TP3" (at 189.23 73.66 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 186.182 76.2 90)
@@ -2649,7 +2649,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP32") (unit 1)
+          (reference "TP3") (unit 1)
         )
       )
     )
@@ -2658,7 +2658,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 142.24 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cef0027c-ec26-4c7e-b224-b173a12a6ff2)
-    (property "Reference" "TP15" (at 29.21 142.24 90)
+    (property "Reference" "TP37" (at 29.21 142.24 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 139.7 90)
@@ -2674,7 +2674,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP15") (unit 1)
+          (reference "TP37") (unit 1)
         )
       )
     )
@@ -2683,7 +2683,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 80.01 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d81722b4-44f3-4745-a97c-bef55ce3ac92)
-    (property "Reference" "TP5" (at 72.39 86.36 90)
+    (property "Reference" "TP8" (at 72.39 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 64.77 86.36 90)
@@ -2699,7 +2699,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP5") (unit 1)
+          (reference "TP8") (unit 1)
         )
       )
     )
@@ -2708,7 +2708,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 86.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid deae6479-fbe0-429a-a164-e2a226006756)
-    (property "Reference" "TP8" (at 260.35 86.36 90)
+    (property "Reference" "TP9" (at 260.35 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 88.9 90)
@@ -2724,7 +2724,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP8") (unit 1)
+          (reference "TP9") (unit 1)
         )
       )
     )
@@ -2733,7 +2733,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 78.74 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0dbd7f9-ddf2-48d1-98e5-a617cd4314a2)
-    (property "Reference" "TP14" (at 29.21 78.74 90)
+    (property "Reference" "TP4" (at 29.21 78.74 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 76.2 90)
@@ -2749,7 +2749,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP14") (unit 1)
+          (reference "TP4") (unit 1)
         )
       )
     )
@@ -2758,7 +2758,7 @@
   (symbol (lib_id "Device:R_US") (at 160.02 173.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3e8e545-656e-41d6-8622-5545ed657154)
-    (property "Reference" "R29" (at 162.56 173.355 0)
+    (property "Reference" "R4" (at 162.56 173.355 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R_US" (at 162.56 175.895 0)
@@ -2775,7 +2775,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "R29") (unit 1)
+          (reference "R4") (unit 1)
         )
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
           (reference "R29") (unit 1)
@@ -2787,7 +2787,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 254 142.24 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4231eab-0644-4411-a792-0c2d34ddc394)
-    (property "Reference" "TP42" (at 260.35 142.24 90)
+    (property "Reference" "TP38" (at 260.35 142.24 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 257.302 144.78 90)
@@ -2803,7 +2803,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP42") (unit 1)
+          (reference "TP38") (unit 1)
         )
       )
     )
@@ -2832,7 +2832,7 @@
           (reference "R?") (unit 1)
         )
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "R17") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -2841,7 +2841,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 212.09 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eea1006a-0ac6-4b7d-a8dc-910dcb5176a5)
-    (property "Reference" "TP30" (at 212.09 128.27 90)
+    (property "Reference" "TP31" (at 212.09 128.27 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 214.63 131.318 90)
@@ -2857,7 +2857,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP30") (unit 1)
+          (reference "TP31") (unit 1)
         )
       )
     )
@@ -2866,7 +2866,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 35.56 81.28 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f69300c0-3a55-4b13-abc2-c6c2d03ee47f)
-    (property "Reference" "TP13" (at 29.21 81.28 90)
+    (property "Reference" "TP6" (at 29.21 81.28 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TestPoint" (at 32.258 78.74 90)
@@ -2882,7 +2882,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9"
-          (reference "TP13") (unit 1)
+          (reference "TP6") (unit 1)
         )
       )
     )
