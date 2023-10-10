@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.9,
-          "width": 1.5
+          "height": 1.95,
+          "width": 0.349998
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -438,6 +438,57 @@
       },
       {
         "bus_width": 12,
+        "clearance": 0.127,
+        "diff_pair_gap": 0.1524,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.1524,
+        "line_style": 0,
+        "microvia_diameter": 0.508,
+        "microvia_drill": 0.254,
+        "name": "BATT",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.762,
+        "via_diameter": 0.508,
+        "via_drill": 0.254,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.127,
+        "diff_pair_gap": 0.1524,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.1524,
+        "line_style": 0,
+        "microvia_diameter": 0.508,
+        "microvia_drill": 0.254,
+        "name": "Buck_Boost_PWR",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.381,
+        "via_diameter": 0.508,
+        "via_drill": 0.254,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.254,
+        "diff_pair_gap": 0.1524,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.1524,
+        "line_style": 0,
+        "microvia_diameter": 0.508,
+        "microvia_drill": 0.254,
+        "name": "Buck_Boost_Signal",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.381,
+        "via_diameter": 0.508,
+        "via_drill": 0.254,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
         "clearance": 0.381,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
@@ -482,7 +533,7 @@
         "name": "USB_PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 1.016,
+        "track_width": 0.762,
         "via_diameter": 0.508,
         "via_drill": 0.254,
         "wire_width": 6
@@ -503,11 +554,7 @@
         "pattern": "USB_D+"
       },
       {
-        "netclass": "USB_PWR",
-        "pattern": "V_USB"
-      },
-      {
-        "netclass": "USB_PWR",
+        "netclass": "BATT",
         "pattern": "VBUS"
       },
       {
@@ -517,6 +564,34 @@
       {
         "netclass": "GPS_PWR",
         "pattern": "GPS_POWER"
+      },
+      {
+        "netclass": "BATT",
+        "pattern": "+BATT"
+      },
+      {
+        "netclass": "BATT",
+        "pattern": "VBUS"
+      },
+      {
+        "netclass": "BATT",
+        "pattern": "BATT_CHARGE_VOUT"
+      },
+      {
+        "netclass": "Buck_Boost_Signal",
+        "pattern": "/power/Buck_Boost_FB"
+      },
+      {
+        "netclass": "Buck_Boost_Signal",
+        "pattern": "/power/Buck_Boost_PG"
+      },
+      {
+        "netclass": "Buck_Boost_Signal",
+        "pattern": "/power/VAUX"
+      },
+      {
+        "netclass": "Buck_Boost_Signal",
+        "pattern": "BATT_BUCK_BOOST_EN"
       }
     ]
   },

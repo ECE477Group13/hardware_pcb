@@ -1474,7 +1474,7 @@
     (property "Value" "Conn_01x02" (at 205.74 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_XA_B02B-XASK-1-A_1x02_P2.50mm_Vertical" (at 203.2 55.88 0)
+    (property "Footprint" "Connector_JST:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical" (at 203.2 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 203.2 55.88 0)
