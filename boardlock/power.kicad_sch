@@ -1217,13 +1217,13 @@
     (uuid e6cb9be3-554f-4041-bd7e-5fc5dab8c9db)
   )
 
+  (label "VAUX" (at 144.78 104.14 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 0fff2769-186b-4601-9f26-6b7edfdcae1b)
+  )
   (label "Buck_Boost_FB" (at 200.66 81.28 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 222511cf-ef0e-4c9d-bc8f-f0614d9dba65)
-  )
-  (label "VSEL" (at 144.78 99.06 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 52421891-c47b-4b78-95c7-9fcd84be864b)
   )
   (label "Buck_Boost_FB2" (at 185.42 86.36 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1391,8 +1391,8 @@
     (property "Datasheet" "~" (at 232.41 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dd0420fc-12ec-46d3-ba72-ea30b9e33c25))
-    (pin "2" (uuid 044d9ad2-788a-4ecb-bcf8-ced997bcab28))
+    (pin "1" (uuid 07008c21-10a0-469f-8b31-62d03f562dd8))
+    (pin "2" (uuid 51d5ac4b-54f7-4b5a-8129-3790f2ce3a28))
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/5801071c-337d-449a-92e5-5afeb5febc0d"
@@ -2016,7 +2016,7 @@
     (property "Value" "MCP1661" (at 63.5 149.86 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (at 63.5 175.26 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (at 63.5 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/20005315B.pdf" (at 63.5 148.59 0)
