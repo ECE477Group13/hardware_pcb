@@ -601,7 +601,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "boardlock.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
