@@ -335,7 +335,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tstamp 08061835-b714-4fde-be49-65b99501f962)
-    (at 294.64 -85.89)
+    (at 25.425 127.19)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -497,7 +497,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 0977d46b-dda8-4217-a009-4f51290c5d4a)
-    (at -95.5 1.53)
+    (at 20.99 48.47)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -528,7 +528,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 09bbbcb1-6736-4d90-9c31-26299ce4fd49)
-    (at 463.82 -9.34)
+    (at 94.1175 176)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -582,7 +582,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 0ab1069e-6820-4699-8a94-a618e9f995cd)
-    (at -68.36 -8.14)
+    (at 48.13 38.8)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -613,7 +613,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 0c76e953-1717-4a51-b39a-8180af5507dc)
-    (at -101.6 -13.72)
+    (at 14.89 33.22)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -698,7 +698,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 0e3bbf2c-340f-43b5-928c-46078a7e4fae)
-    (at -89.4 -13.72)
+    (at 27.09 33.22)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -729,7 +729,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 108d00e0-b64c-45f6-bc72-97bb57c0a219)
-    (at -101.6 1.53)
+    (at 14.89 48.47)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -878,7 +878,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 14c8ddd2-2b3e-4922-95f9-47253b04fb53)
-    (at -92.45 -10.67)
+    (at 24.04 36.27)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -963,7 +963,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering" (layer "F.Cu")
     (tstamp 1da32428-6f81-4891-96cb-5d99c0bd2994)
-    (at 468.7625 -11.88)
+    (at 99.06 173.46)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "ui.kicad_sch")
@@ -1115,7 +1115,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 205f61cb-6818-4679-85cb-4bff6a85a21a)
-    (at -89.4 -4.57)
+    (at 27.09 42.37)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -1309,7 +1309,7 @@
 
   (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816" (layer "F.Cu")
     (tstamp 255b275c-3b8d-4079-be6f-41ee43f06ba7)
-    (at 401.785 -77.665)
+    (at 25.61 181.005)
     (descr "https://katalog.we-online.com/em/datasheet/434133025816.pdf")
     (tags "tactile switch Wurth Wuerth")
     (property "Sheetfile" "ui.kicad_sch")
@@ -1501,7 +1501,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 2e26f0f6-ab83-4f38-9174-9c6f85d65b11)
-    (at -92.45 1.53)
+    (at 24.04 48.47)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -1532,7 +1532,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 2ef0591c-d8a5-4f3e-b4a2-e58966cb9a89)
-    (at -95.5 4.58)
+    (at 20.99 51.52)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -1618,7 +1618,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 32bc3976-0f7b-48f5-893e-c941cf4c834e)
-    (at -89.408 1.524)
+    (at 27.082 48.464)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -1649,7 +1649,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tstamp 35411ed2-fb4d-4c6c-bbd7-2fcbd06ad6ae)
-    (at 396.005 -75.995)
+    (at 19.83 182.675)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -1757,7 +1757,7 @@
 
   (footprint "LED_SMD:LED_Cree-PLCC4_3.2x2.8mm_CCW" (layer "F.Cu")
     (tstamp 35a4f93b-17a3-425f-9610-0b5be2fb8d3c)
-    (at 458.49 -11.18)
+    (at 88.7875 174.16)
     (descr "3.2mm x 2.8mm PLCC4 LED, http://www.cree.com/led-components/media/documents/CLV1AFKB(874).pdf")
     (tags "LED Cree PLCC-4")
     (property "Sheetfile" "ui.kicad_sch")
@@ -1821,7 +1821,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 36555a44-e8cf-48a5-9927-5cdae30b9b83)
-    (at -92.45 -13.72)
+    (at 24.04 33.22)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -1906,7 +1906,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 3b6253e3-1ab3-4a14-92f7-416ae527c1b6)
-    (at -71.41 -2.04)
+    (at 45.08 44.9)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -1937,7 +1937,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 3c08f7d1-47db-41b7-9540-5ef87491a982)
-    (at -98.55 -13.72)
+    (at 17.94 33.22)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -1968,7 +1968,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 4005f66c-24b9-4d53-bec1-207b68d1cf5d)
-    (at 281.5 -88.5)
+    (at 12.285 124.58)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -2115,7 +2115,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 418c47bd-50a3-462e-9fb4-a7c861e18818)
-    (at 324.91 -85.47)
+    (at 55.695 127.61)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -2169,7 +2169,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering" (layer "F.Cu")
     (tstamp 41f1a437-13b8-42e2-8992-a3e8fbb07687)
-    (at 468.7625 -7.43)
+    (at 99.06 177.91)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "ui.kicad_sch")
@@ -2262,7 +2262,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 46706b23-c594-45f4-8d02-d4ade2c864d4)
-    (at -95.5 -7.62)
+    (at 20.99 39.32)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -2347,7 +2347,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 4fec5d84-25e5-4db5-8c14-020469d187a1)
-    (at -92.45 4.58)
+    (at 24.04 51.52)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -2521,7 +2521,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 591b2a69-1f93-409f-baee-e264c9fa8065)
-    (at -53.73 9.56 90)
+    (at 62.76 56.5 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -2897,7 +2897,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 6203f723-43a2-415f-b0b4-b11957f97e97)
-    (at -89.4 -10.67)
+    (at 27.09 36.27)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -2928,7 +2928,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 6312662c-a808-47a4-a17c-3df46b2eab67)
-    (at -89.4 -1.52)
+    (at 27.09 45.42)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -3785,7 +3785,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 637d4f32-83bc-45fc-90f2-eb266afabf6a)
-    (at -164.675 71.745 90)
+    (at 33.08 80.24 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -3947,7 +3947,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 68da4a9a-27cd-4be1-80d0-cfb91581ec6d)
-    (at -101.6 -1.52)
+    (at 14.89 45.42)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -4349,7 +4349,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 6f31ae35-fbd4-41b4-aa53-1d43b46aeaa9)
-    (at -89.408 4.574)
+    (at 27.082 51.514)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -4435,7 +4435,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 749565eb-698d-46d9-b024-011a340a7629)
-    (at -68.36 -2.04)
+    (at 48.13 44.9)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -4466,7 +4466,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 77e8d666-d684-4672-b2c7-5fc119797c42)
-    (at -101.6 -4.57)
+    (at 14.89 42.37)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -4605,7 +4605,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 7afb18ae-b34c-41e9-b5f2-2cf08d51b4c5)
-    (at 453.12 -5.98)
+    (at 83.4175 179.36)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -4767,7 +4767,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 7ffb3633-7793-444f-bac1-60274d7a7883)
-    (at -98.55 4.58)
+    (at 17.94 51.52)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -4798,7 +4798,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp 80d767e5-295a-4de6-8e11-cd119527efbb)
-    (at -95.5 -4.57)
+    (at 20.99 42.37)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -5223,7 +5223,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp 93a56e92-dc2a-43e8-9035-0237b9554c12)
-    (at 484.96 81.52)
+    (at 145.445 180.205)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -6214,7 +6214,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tstamp a42cc69f-123c-4f9e-946d-aad092632fc3)
-    (at 480.1317 75.9715 -90)
+    (at 140.6167 174.6565 -90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -6268,7 +6268,7 @@
 
   (footprint "TL3300DF160Q:SW_TL3300DF160Q" (layer "F.Cu")
     (tstamp a4f15195-1ef3-495c-8052-9066a6f993d2)
-    (at 317.5 -76.2)
+    (at 48.285 136.88)
     (property "Sheetfile" "ui.kicad_sch")
     (property "Sheetname" "ui")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -6331,7 +6331,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp a5292e66-c13c-4400-b25e-6deb6fc3d7e4)
-    (at -68.36 -5.09)
+    (at 48.13 41.85)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -6448,7 +6448,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp aab08e1f-55a8-4d1f-ac41-3faed1ce6db2)
-    (at -101.6 4.58)
+    (at 14.89 51.52)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -6533,7 +6533,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp b0e5a69d-2433-4526-b4af-38d855d6ff7e)
-    (at -57.43 10.86 90)
+    (at 59.06 57.8 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -6587,7 +6587,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp b24d1433-274f-46b6-b6ab-31a3766ab67d)
-    (at -98.55 7.63)
+    (at 17.94 54.57)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -6618,7 +6618,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp b4567862-fdf0-4dc3-b5a4-18aee2b809d0)
-    (at -95.5 -10.67)
+    (at 20.99 36.27)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -6703,7 +6703,7 @@
 
   (footprint "TL3300DF160Q:SW_TL3300DF160Q" (layer "F.Cu")
     (tstamp b6f438af-cd9b-41a7-a78f-f55deba4536c)
-    (at 297.825 -76.16)
+    (at 28.61 136.92)
     (property "Sheetfile" "ui.kicad_sch")
     (property "Sheetname" "ui")
     (property "ki_description" "Push button switch, generic, two pins")
@@ -6874,7 +6874,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp bb16fa4e-e980-4516-883e-0b7192a2ba69)
-    (at -98.55 -7.62)
+    (at 17.94 39.32)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -6905,7 +6905,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp bb1fbbe9-6f0b-489b-8104-9388104cb697)
-    (at -71.41 1.01)
+    (at 45.08 47.95)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -6936,7 +6936,7 @@
 
   (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816" (layer "F.Cu")
     (tstamp bc569d9a-4841-4520-8cc0-82ac9ce2c9e2)
-    (at 484.86 84.92 180)
+    (at 145.345 183.605 180)
     (descr "https://katalog.we-online.com/em/datasheet/434133025816.pdf")
     (tags "tactile switch Wurth Wuerth")
     (property "Sheetfile" "ui.kicad_sch")
@@ -7014,7 +7014,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp be28a8d7-b86e-4ebf-8029-8e42cb99d046)
-    (at -55.31 18.7)
+    (at 61.18 65.64)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -7122,7 +7122,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering" (layer "F.Cu")
     (tstamp bef940da-6bf6-4255-ae35-9c1e58a36207)
-    (at 468.7625 -16.33)
+    (at 99.06 169.01)
     (descr "SOT-23, Handsoldering")
     (tags "SOT-23")
     (property "Sheetfile" "ui.kicad_sch")
@@ -7184,7 +7184,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp c18cd5f1-12f0-43c8-a87f-36fa78a91f69)
-    (at 299.72 -85.95)
+    (at 30.505 127.13)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -7292,7 +7292,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp c20345be-3a95-4839-b1d8-231c84a4248a)
-    (at -98.55 -4.57)
+    (at 17.94 42.37)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -7378,7 +7378,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp c3732d68-beb0-4205-b368-d8cfddeac5ad)
-    (at 280.61 -94)
+    (at 11.395 119.08)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -7494,7 +7494,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp c45f96b0-b69f-48c5-a5f6-e724a6e64840)
-    (at 287.98 -86.33)
+    (at 18.765 126.75)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -7548,7 +7548,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp c6bee564-ca78-4d0a-8353-eccb43685e1b)
-    (at 477.96 81.52)
+    (at 138.445 180.205)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -7602,7 +7602,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp c82ac303-bb96-4e70-afc5-dff968848351)
-    (at -167.215 71.72 90)
+    (at 30.54 80.215 90)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -7886,7 +7886,7 @@
 
   (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816" (layer "F.Cu")
     (tstamp cecd5325-2d32-4c4d-8e98-00b823b6c763)
-    (at 477.985 84.895 180)
+    (at 138.47 183.58 180)
     (descr "https://katalog.we-online.com/em/datasheet/434133025816.pdf")
     (tags "tactile switch Wurth Wuerth")
     (property "Sheetfile" "ui.kicad_sch")
@@ -7964,7 +7964,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp cf9ef2bb-03ab-44af-afcc-28969a03d738)
-    (at -95.5 -13.72)
+    (at 20.99 33.22)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -8184,7 +8184,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp d95073b6-3b98-4ab5-a5df-c1621214ff10)
-    (at -71.41 -8.14)
+    (at 45.08 38.8)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -8269,7 +8269,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp dbaa4353-2281-43c2-95da-e292c95dc21c)
-    (at -71.41 -5.09)
+    (at 45.08 41.85)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -8354,7 +8354,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp dd5302a4-61e7-4857-a94f-49c666bf6257)
-    (at 299.72 -88.9)
+    (at 30.505 124.18)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -8408,7 +8408,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp ddac2663-3cd6-478d-8df5-e6e05f9d0c44)
-    (at 453.12 -14.83)
+    (at 83.4175 170.51)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -8462,7 +8462,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "F.Cu")
     (tstamp dedc6247-250a-41d2-9f99-5d83e08e0cc6)
-    (at -57.69 2.55)
+    (at 58.8 49.49)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "power.kicad_sch")
@@ -8516,7 +8516,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp e05ea3ac-615e-4d31-98e7-f859ab4d7c13)
-    (at -92.45 7.63)
+    (at 24.04 54.57)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -8547,7 +8547,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp e16325c6-f337-4628-aede-3160c675e3d1)
-    (at -95.5 7.63)
+    (at 20.99 54.57)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -8632,7 +8632,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp e7cb009e-5685-413c-848d-ca5811a54b48)
-    (at -101.6 7.63)
+    (at 14.89 54.57)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -8717,7 +8717,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tstamp ee42eac3-9311-450e-8792-90a0493d2053)
-    (at 472.795 76.2978 180)
+    (at 133.28 174.9828 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -8825,7 +8825,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "F.Cu")
     (tstamp f0abda84-9455-479c-9466-417db26a6fc2)
-    (at 294.64 -88.9)
+    (at 25.425 124.18)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "ui.kicad_sch")
@@ -8987,7 +8987,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp f8537003-6cef-4542-a8e5-706522c98db9)
-    (at -98.55 1.53)
+    (at 17.94 48.47)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -9210,7 +9210,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_D1.0mm" (layer "F.Cu")
     (tstamp feb53db2-aa35-4434-9972-0f4d3237b51f)
-    (at -101.6 -7.62)
+    (at 14.89 39.32)
     (descr "SMD pad as test Point, diameter 1.0mm")
     (tags "test point SMD pad")
     (property "Sheetfile" "boardlock.kicad_sch")
@@ -10369,46 +10369,31 @@
     (stroke (width 0.1) (type default)) (layer "User.2") (tstamp abbe24e4-e30e-4593-88b0-0ae2fbffe47a))
   (gr_line (start 164.99 137.79) (end 164.99 91.79)
     (stroke (width 0.1) (type default)) (layer "User.2") (tstamp d4d634b7-12a9-4dce-8d3b-e17d1030df8c))
-  (gr_text "Heart" (at -169.755 75.285 90) (layer "F.Cu") (tstamp 02990c95-21ab-4a27-9a7b-775cafdf4c97)
+  (gr_text "Heart" (at 28 83.78 90) (layer "F.Cu") (tstamp 02990c95-21ab-4a27-9a7b-775cafdf4c97)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "MicroSD Slot" (at 365.84 310.485) (layer "F.Cu") (tstamp 0674487a-81f2-4a18-af38-8f3e105d1163)
-    (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
-  )
-  (gr_text "LiPo Battery\nConnector" (at -0.164 324.12) (layer "F.Cu") (tstamp 20d9ec24-35e4-4788-b47c-efe6f8130700)
-    (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
-  )
-  (gr_text "External UI Buttons" (at 289.56 -93.98) (layer "F.Cu") (tstamp 352661f4-81ac-49aa-a50e-ecfcfa1c3384)
+  (gr_text "External UI Buttons" (at 20.345 119.1) (layer "F.Cu") (tstamp 352661f4-81ac-49aa-a50e-ecfcfa1c3384)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
   (gr_text "MICRO" (at 99.1418 81.4838 90) (layer "F.Cu") (tstamp 42efcdbc-e259-43b8-9423-6faae2da7ec1)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
-  (gr_text "Testpoints" (at -106.17 -20.32) (layer "F.Cu") (tstamp 71384a7f-9b1d-47ec-a13d-caca0fb7b28d)
-    (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
-  )
-  (gr_text "Mount Holes" (at -35.56 -70.815) (layer "F.Cu") (tstamp 7327a38e-732f-4666-ad54-43db08f59210)
+  (gr_text "Testpoints" (at 19.83 27.8) (layer "F.Cu") (tstamp 71384a7f-9b1d-47ec-a13d-caca0fb7b28d)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
   (gr_text "Audio Amplifier" (at 218.5502 135.205) (layer "F.Cu") (tstamp 76ef18c1-89e7-43f1-8e1d-732d3c20e5f9)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
-  (gr_text "RGB" (at 457.2 -19.5) (layer "F.Cu") (tstamp 7a2c9756-88be-4f70-911a-7530c475c9db)
+  (gr_text "RGB" (at 87.4975 165.84) (layer "F.Cu") (tstamp 7a2c9756-88be-4f70-911a-7530c475c9db)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
   (gr_text "Buzzer Power Circuit" (at 231.0892 104.2416) (layer "F.Cu") (tstamp 7ec6c9ab-34d6-4524-a115-2113ee594dda)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
-  (gr_text "Babysitter Input" (at -149.32 139.7) (layer "F.Cu") (tstamp c59cd9d7-6b7a-4745-9866-770fece789b4)
-    (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
-  )
-  (gr_text "IMU" (at 78.74 -83.105) (layer "F.Cu") (tstamp e5d0c64a-f909-47fc-8346-6db72236158f)
+  (gr_text "User Data \nReset Button" (at 14.985 177.39) (layer "F.Cu") (tstamp f993dda2-a289-4395-a81a-19b8f3163906)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
-  (gr_text "User Data \nReset Button" (at 391.16 -81.28) (layer "F.Cu") (tstamp f993dda2-a289-4395-a81a-19b8f3163906)
-    (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
-  )
-  (gr_text "Reset/Boot Buttons" (at 469.9 71.12) (layer "Dwgs.User") (tstamp d42610af-5073-4c72-963a-d3db7faa5159)
+  (gr_text "Reset/Boot Buttons" (at 130.385 169.805) (layer "Dwgs.User") (tstamp d42610af-5073-4c72-963a-d3db7faa5159)
     (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
   )
   (gr_text "for some of the resistors near here\nyou could drop a via and put on the\nbottom" (at 120.0404 88.138) (layer "Cmts.User") (tstamp 02551acd-0250-4000-a75f-8231833c63ec)
@@ -10417,13 +10402,7 @@
   (gr_text "Need to stitch GND together" (at 167.1828 65.8876) (layer "Cmts.User") (tstamp 350ee506-093c-4e48-aee4-b49523efc11b)
     (effects (font (size 0.254 0.254) (thickness 0.0635)) (justify left bottom))
   )
-  (gr_text "Battery Charging" (at -86.36 261.62) (layer "Cmts.User") (tstamp 4778bd4b-6d98-444d-9e0f-379e86433a1f)
-    (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
-  )
-  (gr_text "GPS" (at 187.96 -101.19) (layer "Cmts.User") (tstamp 6350a9a3-0c1e-4d65-961e-f43a3e4d2bfa)
-    (effects (font (size 3 3) (thickness 0.5) bold) (justify left bottom))
-  )
-  (gr_text "Non-UI Buttons" (at 475.96 90.15) (layer "Cmts.User") (tstamp ce56b038-964a-41fb-8651-a8998a32c8a6)
+  (gr_text "Non-UI Buttons" (at 136.445 188.835) (layer "Cmts.User") (tstamp ce56b038-964a-41fb-8651-a8998a32c8a6)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
   )
 
@@ -10521,13 +10500,13 @@
   (segment (start 113.49 119.08) (end 113.53 119.12) (width 0.508) (layer "B.Cu") (net 7) (tstamp d5b86a4a-6e37-489b-a7a4-c91c92bd704b))
   (segment (start 167.39 137.5325) (end 167.39 138.227631) (width 0.508) (layer "B.Cu") (net 7) (tstamp e7f19e2c-a135-4543-816f-f6c04463d231))
   (segment (start 114.813421 120.455) (end 118.155 120.455) (width 0.508) (layer "B.Cu") (net 7) (tstamp ffcf9756-0d3f-4fd9-ba5d-26975fa51357))
-  (segment (start 478.96 81.52) (end 480.06 82.62) (width 0.254) (layer "F.Cu") (net 8) (tstamp 335a51b2-074a-4ee6-b6f5-d8408ab9d0df))
-  (segment (start 478.96 81.52) (end 478.96 80.22) (width 0.254) (layer "F.Cu") (net 8) (tstamp 5fa2b794-fe50-4641-addd-901b730e336e))
-  (segment (start 475.935 83.82) (end 480.06 83.82) (width 0.254) (layer "F.Cu") (net 8) (tstamp 7bd0fffe-c102-47f7-a501-c3547f229322))
-  (segment (start 480.06 82.62) (end 480.06 83.82) (width 0.254) (layer "F.Cu") (net 8) (tstamp f7e14d39-dd87-4951-9ad6-f7b62f26b896))
-  (segment (start 486.935 83.845) (end 482.81 83.845) (width 0.254) (layer "F.Cu") (net 9) (tstamp 9541f61d-1f43-4de7-80c3-25d288883fd7))
-  (segment (start 486.935 82.495) (end 486.935 83.845) (width 0.254) (layer "F.Cu") (net 9) (tstamp df236ee6-9283-4e20-8b87-a8a8ce72efda))
-  (segment (start 485.96 81.52) (end 486.935 82.495) (width 0.254) (layer "F.Cu") (net 9) (tstamp ef19594d-ed44-4f24-8325-160ee662ebef))
+  (segment (start 139.445 180.205) (end 140.545 181.305) (width 0.254) (layer "F.Cu") (net 8) (tstamp 335a51b2-074a-4ee6-b6f5-d8408ab9d0df))
+  (segment (start 139.445 180.205) (end 139.445 178.905) (width 0.254) (layer "F.Cu") (net 8) (tstamp 5fa2b794-fe50-4641-addd-901b730e336e))
+  (segment (start 136.42 182.505) (end 140.545 182.505) (width 0.254) (layer "F.Cu") (net 8) (tstamp 7bd0fffe-c102-47f7-a501-c3547f229322))
+  (segment (start 140.545 181.305) (end 140.545 182.505) (width 0.254) (layer "F.Cu") (net 8) (tstamp f7e14d39-dd87-4951-9ad6-f7b62f26b896))
+  (segment (start 147.42 182.53) (end 143.295 182.53) (width 0.254) (layer "F.Cu") (net 9) (tstamp 9541f61d-1f43-4de7-80c3-25d288883fd7))
+  (segment (start 147.42 181.18) (end 147.42 182.53) (width 0.254) (layer "F.Cu") (net 9) (tstamp df236ee6-9283-4e20-8b87-a8a8ce72efda))
+  (segment (start 146.445 180.205) (end 147.42 181.18) (width 0.254) (layer "F.Cu") (net 9) (tstamp ef19594d-ed44-4f24-8325-160ee662ebef))
   (segment (start 200.638 70.844) (end 200.3552 70.5612) (width 0.381) (layer "F.Cu") (net 10) (tstamp 0d6a521e-27ab-4dda-9c51-c7ddc4fe2838))
   (segment (start 200.7108 70.844) (end 200.3552 70.844) (width 0.381) (layer "F.Cu") (net 10) (tstamp 0da24edd-8dc3-4e42-bf5f-1b4875b8b91e))
   (segment (start 199.9488 70.844) (end 200.0724 70.844) (width 0.381) (layer "F.Cu") (net 10) (tstamp 1799fa85-c65f-436e-ab51-cde494b18332))
