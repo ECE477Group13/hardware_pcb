@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.099999,
-          "width": 0.245
+          "height": 1.049999,
+          "width": 0.24
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -431,7 +431,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.381,
+        "track_width": 0.3048,
         "via_diameter": 0.508,
         "via_drill": 0.254,
         "wire_width": 6
@@ -482,7 +482,7 @@
         "name": "Buck_Boost_Signal",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.381,
+        "track_width": 0.3048,
         "via_diameter": 0.508,
         "via_drill": 0.254,
         "wire_width": 6
@@ -516,7 +516,7 @@
         "name": "USB Data Lines",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.381,
+        "track_width": 0.762,
         "via_diameter": 0.508,
         "via_drill": 0.254,
         "wire_width": 6
