@@ -789,6 +789,8 @@
     (uuid f8095045-6392-47a9-ae34-b89325373383)
   )
 
+  (no_connect (at 106.68 68.58) (uuid 04cf45f0-ab69-4c20-9af6-8db01a492f8a))
+
   (wire (pts (xy 199.39 116.84) (xy 200.66 116.84))
     (stroke (width 0) (type default))
     (uuid 02af74e4-cc48-47df-b07e-3cfae2fd9a66)
@@ -1053,7 +1055,7 @@
     (stroke (width 0) (type default))
     (uuid ebf2f440-6c5b-447c-99fe-59d0d8bb0c4d)
   )
-  (wire (pts (xy 101.6 68.58) (xy 102.87 68.58))
+  (wire (pts (xy 101.6 68.58) (xy 106.68 68.58))
     (stroke (width 0) (type default))
     (uuid ecf5a2da-c177-4cd0-9dd3-4f1ece5142cc)
   )
@@ -1439,31 +1441,6 @@
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
           (reference "TP42") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Connector:TestPoint") (at 102.87 68.58 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 1ae37c43-409c-4099-8880-0e7237dc6829)
-    (property "Reference" "TP39" (at 120.65 68.58 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "IMU_INT1" (at 113.03 68.58 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm" (at 102.87 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 102.87 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 2112de38-20ff-4d4a-82d2-9d3e7592e7e6))
-    (instances
-      (project "boardlock"
-        (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/a4a6f965-a4d9-4da6-b64e-79eda0daabe5"
-          (reference "TP39") (unit 1)
         )
       )
     )
