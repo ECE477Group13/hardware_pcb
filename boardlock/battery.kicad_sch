@@ -965,7 +965,7 @@
     (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
     (uuid 1bc41fd0-0d8d-4010-bf74-1f374e8aa1b5)
   )
-  (text "+BATT is the battery\nvoltage after the\ncoloumb shunt resistor"
+  (text "+BATT is the battery\nvoltage after the\nCoulomb shunt resistor"
     (at 167.64 110.49 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2c3288a3-38f9-4fca-806e-fb1dcab96702)
