@@ -1321,7 +1321,7 @@
     (uuid fef207d3-4317-4954-b47d-cdd00e9b799b)
   )
 
-  (text "Buzzer Power Circuit" (at 184.15 85.09 0)
+  (text "Buzzer Power Circuit" (at 191.77 87.63 0)
     (effects (font (size 2.5 2.5) (thickness 0.5) bold) (justify left bottom))
     (uuid 1b246293-6e3f-4de2-a505-dfe23e339283)
   )
@@ -1333,7 +1333,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 203542aa-27be-4603-8e80-29e8dcbdffa8)
   )
-  (text "Double check this circuit with 12V" (at 217.17 93.98 0)
+  (text "Double check this circuit with 12V" (at 246.38 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 84140639-ea67-428b-80ec-1d30ae373ce8)
   )
