@@ -8,4 +8,5 @@
   (lib (name "espressif-kicad")(type "KiCad")(uri "${KIPRJMOD}/custom_library/espressif-kicad-addon/footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "TL3300DF160Q")(type "KiCad")(uri "${KIPRJMOD}/custom_library/TL3300DF160Q")(options "")(descr ""))
   (lib (name "LSM6DSO32TR")(type "KiCad")(uri "${KIPRJMOD}/custom_library/LSM6DSO32TR/footprints.pretty")(options "")(descr ""))
+  (lib (name "TPD2E2U06QDBZRQ1")(type "KiCad")(uri "${KIPRJMOD}/custom_library/TPD2E2U06QDBZRQ1/footprints.pretty")(options "")(descr ""))
 )

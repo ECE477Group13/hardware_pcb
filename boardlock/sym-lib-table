@@ -6,4 +6,5 @@
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/custom_library/espressif-kicad-addon/symbols/Espressif.kicad_sym")(options "")(descr ""))
   (lib (name "LSM6DSO32TR")(type "KiCad")(uri "${KIPRJMOD}/custom_library/LSM6DSO32TR/2023-10-05_22-35-35.kicad_sym")(options "")(descr ""))
   (lib (name "TL3300DF160Q")(type "KiCad")(uri "${KIPRJMOD}/custom_library/TL3300DF160Q/TL3300DF160Q.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD2E2U06QDBZRQ1")(type "KiCad")(uri "${KIPRJMOD}/custom_library/TPD2E2U06QDBZRQ1/2023-10-14_22-05-28.kicad_sym")(options "")(descr ""))
 )
