@@ -2893,7 +2893,7 @@
   (symbol (lib_id "TPD2E2U06QDBZRQ1:TPD2E2U06QDBZRQ1") (at 142.24 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8e895010-2f62-4bd8-9ffa-de04db996450)
-    (property "Reference" "U?" (at 142.875 52.07 0)
+    (property "Reference" "U9" (at 142.875 52.07 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "TPD2E2U06QDBZRQ1" (at 142.875 54.61 0)
@@ -2911,7 +2911,7 @@
     (instances
       (project "boardlock"
         (path "/e1fc29ce-837e-4062-84d8-c7e423f9eab9/c1e95beb-a482-4f8e-b13b-3641abb17f9b"
-          (reference "U?") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
     )
