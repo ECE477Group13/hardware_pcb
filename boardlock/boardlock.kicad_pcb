@@ -55,8 +55,8 @@
     (aux_axis_origin 107.1618 140.6838)
     (grid_origin 128.96 67.83)
     (pcbplotparams
-      (layerselection 0x00310fc_ffffffff)
-      (plot_on_all_layers_selection 0x00310fc_80000001)
+      (layerselection 0x00010fc_ffffffff)
+      (plot_on_all_layers_selection 0x00010fc_80000001)
       (disableapertmacros false)
       (usegerberextensions true)
       (usegerberattributes false)
@@ -66,7 +66,7 @@
       (dashed_line_gap_ratio 3.000000)
       (svgprecision 4)
       (plotframeref false)
-      (viasonmask true)
+      (viasonmask false)
       (mode 1)
       (useauxorigin false)
       (hpglpennumber 1)
@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../pcb drawings/")
+      (outputdirectory "pcb drawings/")
     )
   )
 
@@ -4616,7 +4616,7 @@
         (effects (font (size 1.4 1.4) (thickness 0.15)))
       (tstamp 889d613b-4523-4989-a1b6-fd5c51b9000e)
     )
-    (fp_text value "TL3300DF160Q" (at 6.985 8.509) (layer "F.Fab")
+    (fp_text value "TL3300DF160Q" (at 6.985 8.509) (layer "F.Fab") hide
         (effects (font (size 1.4 1.4) (thickness 0.15)))
       (tstamp 7abb6986-962a-400a-a3eb-a4120f30256d)
     )
@@ -4938,7 +4938,7 @@
         (effects (font (size 1.4 1.4) (thickness 0.15)))
       (tstamp e3170465-bdb3-4472-afaa-48c470a595f4)
     )
-    (fp_text value "TL3300DF160Q" (at 6.985 8.509) (layer "F.Fab")
+    (fp_text value "TL3300DF160Q" (at 6.985 8.509) (layer "F.Fab") hide
         (effects (font (size 1.4 1.4) (thickness 0.15)))
       (tstamp 2056e5b0-372d-4848-9d60-d49c2e089e92)
     )
