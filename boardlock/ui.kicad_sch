@@ -2899,7 +2899,7 @@
     (property "Value" "TPD2E2U06QDBZRQ1" (at 142.875 54.61 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "DBZ0003A_N" (at 137.16 73.66 0)
+    (property "Footprint" "TPD2E2U06QDBZRQ1:DBZ0003A_N" (at 137.16 73.66 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "TPD2E2U06QDBZRQ1" (at 140.97 78.74 0)
