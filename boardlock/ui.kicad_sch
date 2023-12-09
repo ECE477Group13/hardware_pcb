@@ -2181,7 +2181,7 @@
     (property "Reference" "C24" (at 231.14 44.45 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "0.1uF" (at 240.03 44.45 0)
+    (property "Value" "DEPOP" (at 240.03 44.45 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 234.95 44.45 0)
